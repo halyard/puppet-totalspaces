@@ -1,0 +1,14 @@
+{
+  "name": "puppet-totalspaces",
+  "version": "0.0.1",
+  "author": "akerl",
+  "summary": "Manage totalspaces on OSX",
+  "license": "MIT",
+  "source": "https://github.com/halyard/puppet-totalspaces",
+  "project_page": "https://github.com/halyard/puppet-totalspaces",
+  "issues_url": "https://github.com/halyard/puppet-totalspaces/issues",
+  "dependencies": [
+  ],
+  "operatingsystem_support": [
+  ]
+}
