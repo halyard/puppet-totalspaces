@@ -13,7 +13,7 @@ class totalspaces (
   osx_login_item { 'TotalSpaces2':
     path   => $install_path
   } ~>
-  exec { "launch TotalSpaces2":
+  exec { 'launch TotalSpaces2':
     command     => "/usr/bin/open '${install_path}'",
     refreshonly => true,
   }
