@@ -1,0 +1,22 @@
+{
+  "name": "halyard-totalspaces",
+  "version": "0.0.3",
+  "author": "Les Aker",
+  "license": "MIT",
+  "summary": "Configure totalspaces via Boxen",
+  "source": "https://github.com/halyard/puppet-totalspaces",
+  "project_page": "https://github.com/halyard/puppet-totalspaces",
+  "issues_url": "https://github.com/halyard/puppet-totalspaces/issues",
+  "dependencies": [
+
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Darwin",
+      "operatingsystemmajrelease": [
+        "14",
+        "15"
+      ]
+    }
+  ]
+}
