@@ -1,3 +1,5 @@
+**Inactive Project:** Given that TotalSpaces compat on El Captian is lacking, going to retire this project
+
 totalspaces
 ==============
 
