@@ -5,8 +5,8 @@
 class totalspaces (
   $install_path = "/Users/${::boxen_user}/Applications/TotalSpaces2.app"
 ) {
-  class { '::totalspaces::config': } ->
-  package { 'totalspaces-halyard':
+  class { '::totalspaces::config': }
+  -> package { 'totalspaces-halyard':
     provider => 'brewcask',
     require  => Homebrew::Tap['halyard/casks']
   }
